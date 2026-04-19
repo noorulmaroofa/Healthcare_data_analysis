@@ -1,0 +1,14 @@
+{
+  "name": "Healthcare Vibrant",
+  "dataColors": [
+    "#FF6B6B",
+    "#4ECDC4",
+    "#556270",
+    "#C7F464",
+    "#C44D58",
+    "#1A535C"
+  ],
+  "background": "#F7F9FB",
+  "foreground": "#2E2E2E",
+  "tableAccent": "#4ECDC4"
+}
